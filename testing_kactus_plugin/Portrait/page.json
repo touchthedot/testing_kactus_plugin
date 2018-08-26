@@ -39,8 +39,8 @@
       "id": "4A31EA8B-A52B-42CB-BEA4-549E0DE9879D"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Portrait",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
