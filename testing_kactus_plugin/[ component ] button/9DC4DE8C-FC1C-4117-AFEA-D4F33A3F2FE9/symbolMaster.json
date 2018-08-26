@@ -1,14 +1,15 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.1066960170865059,
+    "green": 0.007513228338211775,
+    "red": 0.816203773021698
   },
   "booleanOperation": -1,
-  "do_objectID": "4A31EA8B-A52B-42CB-BEA4-549E0DE9879D",
+  "changeIdentifier": 8,
+  "do_objectID": "9DC4DE8C-FC1C-4117-AFEA-D4F33A3F2FE9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,20 +22,21 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 640,
-    "width": 360,
-    "x": -333,
-    "y": -265
+    "height": 36,
+    "width": 88,
+    "x": -965,
+    "y": -645
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -46,16 +48,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "6655D92F-1BE5-42A5-9586-C016ED2478B0"
+      "id": "DFA4CF9A-770D-4D0D-A8F8-26D1F3272570"
     },
     {
-      "class": "symbolInstance",
-      "id": "F6AF10F6-905C-4DA8-A4D8-A300550C593F"
+      "class": "text",
+      "id": "564F05FC-5C49-4BD9-A41F-AB39744EE9A8"
     }
   ],
-  "name": "00_page_splash",
-  "nameIsFixed": true,
-  "resizesContent": true,
+  "name": "[ components ]/[ component ] button/[ type ] outlined/[ state ] enabled",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -67,6 +69,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "1F32395B-B5D6-4BE8-BCA0-BBD6B0BF64CE",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

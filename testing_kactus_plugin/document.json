@@ -33,6 +33,7 @@
     "version": 105
   },
   "pages": [
-    "Portrait"
+    "Portrait",
+    "[ component ] button"
   ]
 }

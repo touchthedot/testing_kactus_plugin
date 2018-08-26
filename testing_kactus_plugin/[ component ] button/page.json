@@ -1,14 +1,7 @@
 {
-  "_class": "artboard",
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
+  "_class": "page",
   "booleanOperation": -1,
-  "do_objectID": "4A31EA8B-A52B-42CB-BEA4-549E0DE9879D",
+  "do_objectID": "3E41E330-1F0A-40AB-AE62-6ED950E2F17E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,45 +14,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 640,
-    "width": 360,
-    "x": -333,
-    "y": -265
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
   },
-  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -965,
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "6655D92F-1BE5-42A5-9586-C016ED2478B0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F6AF10F6-905C-4DA8-A4D8-A300550C593F"
+      "class": "symbolMaster",
+      "id": "9DC4DE8C-FC1C-4117-AFEA-D4F33A3F2FE9"
     }
   ],
-  "name": "00_page_splash",
+  "name": "[ component ] button",
   "nameIsFixed": true,
-  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": true,
+  "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -69,7 +54,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -645,
     "guides": [
     ]
   }
